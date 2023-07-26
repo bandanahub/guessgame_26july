@@ -1,3 +1,5 @@
+// this is the javascript for the guessgame javascript.
+
 $(document).ready(function() {
     var numberToGuess = Math.floor(Math.random() * 10) + 1;
 
